@@ -22,7 +22,7 @@ This guy named Edward Eberly made this, I’ve been trying to explore the concep
 
 It seems like a great program … I just can’t get it to work.
 
-post a comment if you get it to work!
+post a comment if you get it to work! Or talk to me in class
 
 download zip file here:
 http://www.eberdeed.net/programs/POVSpaceInvaders.zip
